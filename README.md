@@ -10,3 +10,5 @@ This is where I put my assignments
 [assignment 4](https://github.com/OnnodenHoed/assignments/blob/master/assignment4.ipynb)
 
 [Final python assigment](https://github.com/OnnodenHoed/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+[Final R assignment](https://github.com/OnnodenHoed/assignments/blob/master/OECD_R_exam.ipynb)
